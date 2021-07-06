@@ -1,2 +1,2 @@
-# Greetings
-A site that displays: "Hello World"
+# Hello-World
+A site containing "Hello World"
