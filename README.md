@@ -1,7 +1,7 @@
 # Greetings
 A website that displays the text"Hello World"
 
-https://user-images.githubusercontent.com/62938735/124670432-e5234580-deab-11eb-975d-c795c2384459.jpg
+![screenshot](images/hello-microverse.gif)
 
 It displays a blue hello world text, centred vertically and horizontally using margin and text-align properties in CSS 
 
@@ -15,7 +15,7 @@ It displays a blue hello world text, centred vertically and horizontally using m
 
 **Live Demo**
 
-https://www.loom.com/share/16dbc9ea55754157985d307136558780
+[Live Demo Link](https://www.loom.com/share/)16dbc9ea55754157985d307136558780)
 
 **Getting Started**
 
@@ -23,9 +23,9 @@ To get a local copy up and running follow these simple example steps.
 
 -clone the app by running this command 
 
-:white_large_square: ```git clone  <url or ssh>```
+:white_large_square: ```git clone  https://github.com/fobadara/Greetings.git```
 
-:white_large_square: ```cd  your-repository```
+:white_large_square: ```cd  greetings```
 
 :white_large_square: Open in browser
 
