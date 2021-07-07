@@ -21,6 +21,14 @@ https://www.loom.com/share/16dbc9ea55754157985d307136558780
 
 To get a local copy up and running follow these simple example steps.
 
+-clone the app by running this command 
+```:white_large_square git clone  <url or ssh>```
+
+```:white_large_square cd  your-repository```
+
+```:white_large_square Open in browser```
+
+
 **Prerequisites**
 -You will be needing:
 -A web browser to view output
