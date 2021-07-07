@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 :white_large_square: ```cd  your-repository```
 
-:white_large_square: ```Open in browser```
+:white_large_square: Open in browser
 
 
 **Prerequisites**
